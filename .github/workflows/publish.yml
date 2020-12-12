@@ -32,4 +32,4 @@ jobs:
         
         git add site
         git commit -m "Update Website (${GITHUB_SHA:0:7})"
-        git push origin master
+        git push master origin
