@@ -5,19 +5,13 @@ permalink: /libs/
 title: "Libraries"
 excerpt: "All the Java libraries I offer."
 
-toc: true
-
 libs_row:
-  - image_path: /assets/img/demo/libs/dservices4j.png
-    alt: "dservices4j"
-    title: "DServices4J"
+  - title: "DServices4J"
     excerpt: "The official Java Wrapper for [Discordservices.net](https://discordservices.net)"
     url: /libs/dservices4j
     btn_label: "Go to page"
     btn_class: "btn--info"
-  - image_path: /assets/img/demo/libs/javabotblockapi.png
-    alt: "javabotblockapi"
-    title: "JavaBotBlockAPI"
+  - title: "JavaBotBlockAPI"
     excerpt: "The official Java Wrapper for the [BotBlock API](https://botblock.org)"
     url: /libs/javabotblockapi
     btn_label: "Go to page"
