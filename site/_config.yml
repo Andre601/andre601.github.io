@@ -42,6 +42,7 @@ include:
   - _expansions
   - _plugins
   - _bots
+  - _libs
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
