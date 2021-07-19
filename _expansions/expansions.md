@@ -5,35 +5,25 @@ permalink: /expansions/
 title: "PlaceholderAPI Expansions"
 excerpt: "All the Expansions I offer for PlaceholderAPI."
 
-toc: true
-
 expansion_row_1:
-  - image_path: /assets/img/demo/expansions/expansion.png
-    alt: "formatter"
-    title: "Formatter"
+  - title: "Formatter"
     excerpt: "Format numbers and text in various ways."
     url: /expansions/formatter
     btn_label: "Go to page"
     btn_class: "btn--info"
-  - image_path: /assets/img/demo/expansions/expansion.png
-    alt: "math"
-    title: "Math"
+  - title: "Math"
     excerpt: "Perform various Math expressions powered by [EvalEx](https://github.com/uklimaschewski/EvalEx)."
     url: /expansions/math
     btn_label: "Go to page"
     btn_class: "btn--info"
-  - image_path: /assets/img/demo/expansions/expansion.png
-    alt: "randomcolor"
-    title: "RandomColor"
+  - title: "RandomColor"
     excerpt: "Return a random color and/or formatting code with each call."
     url: /expansions/randomcolor
     btn_label: "Go to page"
     btn_class: "btn--info"
 
 expansion_row_2:
-  - image_path: /assets/img/demo/expansions/expansion.png
-    alt: "shortcut"
-    title: "Shortcut"
+  - title: "Shortcut"
     excerpt: "Parse multiple placeholders and large text in a single placeholder."
     url: /expansions/shortcut
     btn_label: "Go to page"

@@ -5,16 +5,12 @@ title: "Bots"
 excerpt: "A list of all the Bots I made."
 
 bots_row:
-  - image_path: /assets/img/demo/bots/purr.png
-    alt: "purr"
-    title: "*Purr*"
+  - title: "*Purr*"
     excerpt: "A discord bot to bring fun, entertainment and a lot of Nekos."
     url: /bots/purr
     btn_label: "Go to page"
     btn_class: "btn--info"
-  - image_path: /assets/img/demo/bots/supporto.png
-    alt: "supporto"
-    title: "Supporto"
+  - title: "Supporto"
     excerpt: |-
       A intuitive Ticket-management bot!
       Say goodbye to `!new` and other ticket-commands with this easy to use bot!
