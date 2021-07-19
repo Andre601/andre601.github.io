@@ -94,8 +94,6 @@ defaults:
       path: "_bots"
       type: pages
     values:
-      sidebar:
-        nav: bots
       layout: single
       author_profile: false
   
@@ -104,8 +102,6 @@ defaults:
       path: "_expansions"
       type: pages
     values:
-      sidebar:
-        nav: "expansions"
       layout: single
       author_profile: false
   
@@ -114,8 +110,6 @@ defaults:
       path: "_libs"
       type: pages
     values:
-      sidebar:
-        nav: libs
       layout: single
       author_profile: false
   
@@ -124,8 +118,6 @@ defaults:
       path: "_plugins"
       type: pages
     values:
-      sidebar:
-        nav: plugins
       layout: single
       author_profile: false
 
