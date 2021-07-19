@@ -36,7 +36,6 @@ row_2:
     url: /plugins/
     btn_label: "Got to page"
     btn_class: "btn--info"
-
 ---
 
 Welcome to my website!  
