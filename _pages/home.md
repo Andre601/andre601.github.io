@@ -10,7 +10,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/img/banner.png
   actions:
-    - label: "<i class="fab fa-discord"></i> Discord"
+    - label: "<i class='fab fa-discord'></i> Discord"
       url: "https://discord.gg/6dazXp6"
 
 row_1:
