@@ -1,6 +1,10 @@
 ---
-layout: single
+layout: splash
 permalink: /libs/
+
+header:
+  overlay_color: "#333"
+  overlay_filter: "0.5"
 
 title: "Libraries"
 excerpt: "All the Java libraries I offer."

@@ -1,6 +1,10 @@
 ---
-layout: single
+layout: splash
 permalink: /plugins/
+
+header:
+  overlay_color: "#333"
+  overlay_filter: "0.5"
 
 title: "Plugins"
 excerpt: "All the plugins I created. Some may no longer be maintained."

@@ -1,6 +1,10 @@
 ---
-layout: single
+layout: splash
 permalink: /expansions/
+
+header:
+  overlay_color: "#333"
+  overlay_filter: "0.5"
 
 title: "PlaceholderAPI Expansions"
 excerpt: "All the Expansions I offer for PlaceholderAPI."
