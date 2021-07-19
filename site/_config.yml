@@ -1,0 +1,131 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: 'Andre_601'
+
+description: |-
+  Hobby Java-Developer creating plugins, bots and PlaceholderAPI Expansions.
+
+twitter_username: TrueAndre_601
+github_username: Andre601
+
+minimal_mistakes_skin: dark
+
+search: false
+
+# Build settings
+markdown: kramdown
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+remote_theme: mmistakes/minimal-mistakes
+# Outputting
+permalink: /:categories/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+timezone: Europe/Zurich # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+include:
+  - _pages
+  - _expansions
+  - _plugins
+  - _bots
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+footer:
+  links:
+    - label: "Discord"
+      icon: "fab fa-fw fa-discord"
+      url: "https://discord.gg/6dazXp6"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter"
+      url: "https://twitter.com/TrueAndre_601"
+    - label: "Patreon"
+      icon: "fab fa-fw fa-patreon"
+      url: "https://patreon.com/andre_601"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Andre601"
+
+defaults:
+  # Main pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: false
+  
+  # Bot pages
+  - scope:
+      path: "_bots"
+      type: pages
+    values:
+      sidebar:
+        nav: bots
+      layout: single
+      author_profile: false
+  
+  # Expansion pages
+  - scope:
+      path: "_expansions"
+      type: pages
+    values:
+      sidebar:
+        nav: "expansions"
+      layout: single
+      author_profile: false
+  
+  # Library pages
+  - scope:
+      path: "_libs"
+      type: pages
+    values:
+      sidebar:
+        nav: libs
+      layout: single
+      author_profile: false
+  
+  # Plugin pages
+  - scope:
+      path: "_plugins"
+      type: pages
+    values:
+      sidebar:
+        nav: plugins
+      layout: single
+      author_profile: false
+
+atom_feed:
+  hide: true

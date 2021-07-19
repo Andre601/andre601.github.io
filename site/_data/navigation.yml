@@ -1,0 +1,61 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Blog"
+    url: "https://andre601.ch/blog"
+  - title: "Bots"
+    url: /bots/
+  - title: "Expansions"
+    url: /expansions/
+  - title: "Libraries"
+    url: /libs/
+  - title: "Plugins"
+    url: /plugins/
+
+bots:
+  - title: "Bots"
+    children:
+      - title: "*Purr*"
+        url: /bots/purr/
+      - title: "Supporto"
+        url: /bots/supporto/
+
+expansions:
+  - title: "Expansions"
+    children:
+      - title: "Formatter"
+        url: /expansions/formatter/
+      - title: "Math"
+        url: /expansions/math/
+      - title: "RandomColor"
+        url: /expansions/randomcolor/
+      - title: "Shortcut"
+        url: /expansions/shortcut/
+
+libs:
+  - title: "Libraries"
+    children:
+      - title: "DServices4J"
+        url: /libs/dservices4j/
+      - title: "JavaBotBlockAPI"
+        url: /libs/javabotblockapi/
+
+plugins:
+  - title: "Plugins"
+    children:
+      - title: "BetterAFK"
+        url: /plugins/betterafk/
+      - title: "HelpGUI"
+        url: /plugins/helpgui/
+      - title: "HexChat"
+        url: /plugins/hexchat/
+      - title: "OneVersionRemake"
+        url: /plugins/oneversionremake/
+      - title: "PingNachricht"
+        url: /plugins/pingnachricht/
+      - title: "RestrictedDimensions"
+        url: /plugins/restricteddimensions/
+      - title: "StatusNPC"
+        url: /plugins/statusnpc/
+      - title: "TeamChat"
+        url: /plugins/teamchat/
