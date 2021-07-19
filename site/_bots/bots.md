@@ -1,5 +1,10 @@
 ---
+layout: splash
 permalink: /bots/
+
+header:
+  overlay_color: "#333"
+  overlay_filter: "0.5"
 
 title: "Bots"
 excerpt: "A list of all the Bots I made."
