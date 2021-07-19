@@ -16,5 +16,5 @@ In order to access a world will the player require the permission `restricteddim
 
 ## Links
 
-[<i class="fas fa-faucet"></i> Spigot Page](https://www.spigotmc.org/resources/80574)  
-[<i class="fab fa-github"></i> Source Code](https://github.com/Andre601/RestrictedDimensions)
+[<i class="fas fa-faucet"></i> Spigot Page](https://www.spigotmc.org/resources/80574){: .btn .btn--info }  
+[<i class="fab fa-github"></i> Source Code](https://github.com/Andre601/RestrictedDimensions){: .btn .btn--info }

@@ -78,5 +78,5 @@ dependencies{
 
 ## Links
 
-[<i class="fab fa-jenkins"></i> Jenkins](https://ci.codemc.io/job/botblock/job/JavaBotBlockAPI/)  
-[<i class="fab fa-github"></i> Source Code](https://github.com/botblock/JavaBotBlockAPI)
+[<i class="fab fa-jenkins"></i> Jenkins](https://ci.codemc.io/job/botblock/job/JavaBotBlockAPI/){: .btn .btn--info }  
+[<i class="fab fa-github"></i> Source Code](https://github.com/botblock/JavaBotBlockAPI){: .btn .btn--info }

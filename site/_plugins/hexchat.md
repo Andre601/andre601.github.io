@@ -20,5 +20,5 @@ HexChat is a 1.16 Chat plugin that allows you to set formats with HEX colors, ho
 
 ## Links
 
-[<i class="fas fa-faucet"></i> Spigot Page](https://www.spigotmc.org/resources/80696)  
-[<i class="fab fa-github"></i> Source Code](https://github.com/Andre601/HexChat)
+[<i class="fas fa-faucet"></i> Spigot Page](https://www.spigotmc.org/resources/80696){: .btn .btn--info }  
+[<i class="fab fa-github"></i> Source Code](https://github.com/Andre601/HexChat{: .btn .btn--info }

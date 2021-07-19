@@ -43,5 +43,5 @@ If you, for example, want to turn seconds into hours, minutes, etc. can you use 
 
 ## Links
 
-[<i class="fas fa-cloud-download-alt"></i> Download](https://api.extendedclip.com/expansions/formatter)  
-[<i class="fab fa-github"></i> Source Code](https://github.com/Andre601/Formatter-Expansion)
+[<i class="fas fa-cloud-download-alt"></i> Download](https://api.extendedclip.com/expansions/formatter){: .btn .btn--info }  
+[<i class="fab fa-github"></i> Source Code](https://github.com/Andre601/Formatter-Expansion){: .btn .btn--info }

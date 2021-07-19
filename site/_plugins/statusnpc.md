@@ -21,5 +21,5 @@ The NPC will have a glow effect with a color that you can configure.
 
 ## Links
 
-[<i class="fas fa-faucet"></i> Spigot Page](https://www.spigotmc.org/resources/75597)  
-[<i class="fab fa-github"></i> Source Code](https://github.com/Andre601/StatusNPC)
+[<i class="fas fa-faucet"></i> Spigot Page](https://www.spigotmc.org/resources/75597){: .btn .btn--info }  
+[<i class="fab fa-github"></i> Source Code](https://github.com/Andre601/StatusNPC){: .btn .btn--info }
