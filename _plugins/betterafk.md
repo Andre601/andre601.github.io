@@ -19,4 +19,4 @@ You can do this by either giving the reason in the command, or by selecting "Yes
 
 ## Links
 
-[<i class="fas fa-faucet"></i> Spigot Page](https://www.spigotmc.org/resources/36074)
+[<i class="fas fa-faucet"></i> Spigot Page](https://www.spigotmc.org/resources/36074){: .btn .btn--info }

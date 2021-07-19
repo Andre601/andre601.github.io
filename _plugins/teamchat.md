@@ -19,4 +19,4 @@ As an example: Having the prefix set to `!` would send every message starting wi
 
 ## Links
 
-[<i class="fas fa-faucet"></i> Spigot Page](https://www.spigotmc.org/resources/38267)
+[<i class="fas fa-faucet"></i> Spigot Page](https://www.spigotmc.org/resources/38267){: .btn .btn--info }

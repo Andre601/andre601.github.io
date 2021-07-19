@@ -24,5 +24,5 @@ The color/formatting code is in the `§<code>` format rather than `&<code>` or s
 
 ## Links
 
-[<i class="fas fa-cloud-download-alt"></i> Download](https://api.extendedclip.com/expansions/randomcolor)  
-[<i class="fab fa-github"></i> Source Code](https://github.com/Andre601/RandomColor)
+[<i class="fas fa-cloud-download-alt"></i> Download](https://api.extendedclip.com/expansions/randomcolor){: .btn .btn--info }  
+[<i class="fab fa-github"></i> Source Code](https://github.com/Andre601/RandomColor){: .btn .btn--info }

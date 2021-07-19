@@ -46,5 +46,5 @@ dependencies{
 
 ## Links
 
-[<i class="fab fa-jenkins"></i> Jenkins](https://ci.codemc.io/job/DiscordServices/job/DServices4J/)  
-[<i class="fab fa-github"></i> Source Code](https://github.com/DiscordServices/DServices4J)
+[<i class="fab fa-jenkins"></i> Jenkins](https://ci.codemc.io/job/DiscordServices/job/DServices4J/){: .btn .btn--info }  
+[<i class="fab fa-github"></i> Source Code](https://github.com/DiscordServices/DServices4J){: .btn .btn--info }
