@@ -36,6 +36,11 @@ row_2:
     url: /plugins/
     btn_label: "Got to page"
     btn_class: "btn--info"
+  - title: "GitHub Pages"
+    excerpt: "Various pages hosted through GitHub Pages under the [andre601.ch](https://andr601.ch) domain."
+    url: /pages/
+    btn_label: "Go to page"
+    btn_class: "btn--info"
 ---
 
 Welcome to my website!  
