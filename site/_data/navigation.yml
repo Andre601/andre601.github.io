@@ -1,7 +1,7 @@
 main:
   - title: "Home"
     url: /
-  - title: "Blog"
+  - title: "Blog <i class='fas fa-external-link-alt'></i>"
     url: "https://andre601.ch/blog"
   - title: "Bots"
     url: /bots/
