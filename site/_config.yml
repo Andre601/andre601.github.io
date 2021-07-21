@@ -43,6 +43,7 @@ include:
   - _plugins
   - _bots
   - _libs
+  - _github_pages
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -116,6 +117,14 @@ defaults:
   # Plugin pages
   - scope:
       path: "_plugins"
+      type: pages
+    values:
+      layout: single
+      author_profile: false
+  
+  # GitHub Pages... pages.
+  - scope:
+      path: "_github_pages"
       type: pages
     values:
       layout: single
