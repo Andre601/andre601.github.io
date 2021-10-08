@@ -37,7 +37,7 @@ If you, for example, want to turn seconds into hours, minutes, etc. can you use 
 
 > **Notes:**  
 > - `<replacement>` can be left empty to essentially remove `<target>` in the text.
-> - To use underscrores (`_`) as `<target>` or `<replacement>` will you need to use `{{u}}` instead.
+> - To use underscrores (`_`) as `<target>` or `<replacement>` will you need to use `\{{u}}` instead.
 > - `[start]` is zero-indexed (Starts at 0) while `[end]` is not (Starts at 1).
 > - You can leave both `[start]` and `[end]` empty to use the very start and the very end of the text respectively.
 
