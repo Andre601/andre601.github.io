@@ -17,24 +17,24 @@ row_1:
   - title: "Bots"
     excerpt: "Different Discord Bots I've been working on."
     url: /bots/
-    btn_label: "Got to page"
+    btn_label: "Go to page"
     btn_class: "btn--info"
   - title: "Expansions"
     excerpt: "All the PlaceholderAPI Expansions I created."
     url: /expansions/
-    btn_label: "Got to page"
+    btn_label: "Go to page"
     btn_class: "btn--info"
   - title: "Libraries"
     excerpt: "Java Libraries/Wrappers I maintain."
     url: /libs/
-    btn_label: "Got to page"
+    btn_label: "Go to page"
     btn_class: "btn--info"
 
 row_2:
   - title: "Plugins"
     excerpt: "Various plugins I created and perhaps still update."
     url: /plugins/
-    btn_label: "Got to page"
+    btn_label: "Go to page"
     btn_class: "btn--info"
   - title: "GitHub Pages"
     excerpt: "Various pages hosted through GitHub Pages under the [andre601.ch](https://andr601.ch) domain."
