@@ -41,6 +41,11 @@ row_2:
     url: /pages/
     btn_label: "Go to page"
     btn_class: "btn--info"
+  - title: "ItemsAdder Add-ons"
+    excerpt: "A collection of all my Add-ons for the plugin [ItemsAdder](https://www.spigotmc.org/resources/73355/)."
+    url: /itemsadder/
+    btn_label: "Go to page"
+    btn_class: "btn--info"
 ---
 
 Welcome to my website!  
