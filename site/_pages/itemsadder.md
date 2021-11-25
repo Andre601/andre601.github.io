@@ -129,11 +129,13 @@ Use `/iagive <player> <name>` to get the item.
 
 *None*
 
+----
+
 ## Vanilla MC UIs
 > **Namespace:**[^1] `vanillamcuis`
 >
 > **Items:** 113  
-> **Font images:**[^2] 0
+> **Font images:**[^2] 16
 > 
 > [<i class="fas fa-faucet"></i> Spigot Page](https://www.spigotmc.org/resources/97859/){: .btn .btn--info }
 
