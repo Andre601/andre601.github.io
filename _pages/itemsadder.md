@@ -324,7 +324,7 @@ Shows the stonecutter's GUI. Items are available to represent the active, select
 [^1]:
     ItemsAdder uses namespaces, similar to how mods do this, to distinguish the different items, effects, fonts, etc.  
     For example would an item called `example_item` with the namespace `example` be called `example:example_item`.
-[^2]:
-    Font Images (Refered to as `font_image` in ItemsAdder) are, in most simplistic terms, retextured characters. They allow the creation of custom GUIs or similar.
-[^3]:
-    The Zip-file you can download from Spigot comes with example-files for the [ChestCommands Fork] of LoneDev. Use the listed command to see the example in action.
+
+[^2]: Font Images (Refered to as `font_image` in ItemsAdder) are, in most simplistic terms, retextured characters. They allow the creation of custom GUIs or similar.
+
+[^3]: The Zip-file you can download from Spigot comes with example-files for the [ChestCommands Fork] of LoneDev. Use the listed command to see the example in action.
