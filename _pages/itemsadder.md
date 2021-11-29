@@ -134,8 +134,8 @@ Use `/iagive <player> <name>` to get the item.
 ## Vanilla MC UIs
 > **Namespace:**[^1] `vanillamcuis`
 >
-> **Items:** 191  
-> **Font images:**[^2] 17
+> **Items:** 188  
+> **Font images:**[^2] 23
 > 
 > [<i class="fas fa-faucet"></i> Spigot Page](https://www.spigotmc.org/resources/97859/){: .btn .btn--info }
 
@@ -329,8 +329,14 @@ The goal is to offer an alternative way of doing things such as showing crafting
 - `vanillamcuis:loom_pattern_triangle_top_selected`
 - `vanillamcuis:loom_pattern_x`
 - `vanillamcuis:loom_pattern_x_selected`
-- `vanillamcuis:stonecutter_slider_active`
-- `vanillamcuis:stonecutter_slider_inactive`
+- `vanillamcuis:slider_active_left`
+- `vanillamcuis:slider_active_right`
+- `vanillamcuis:slider_inactive_left`
+- `vanillamcuis:slider_inactive_right`
+- `vanillamcuis:small_arrow_down_left`
+- `vanillamcuis:small_arrow_down_right`
+- `vanillamcuis:small_arrow_up_left`
+- `vanillamcuis:small_arrow_up_right`
 - `vanillamcuis:stonecutter_slot_active`
 - `vanillamcuis:stonecutter_slot_inactive`
 - `vanillamcuis:stonecutter_slot_selected`
@@ -366,6 +372,15 @@ Remember to replace the `N` in `blank_chest_N` with either 9, 18, 27, 36, 45 or 
 > **Example GUI:** [^3] `/ia_crafting`
 
 Displays a Crafting table interface. No special items are required here. Just fill the right slots and you're good to go!
+
+#### creative_background_N
+> **Recommended GUI size:** 6 rows (54 slots)  
+> **Example GUI:** [^3] `/ia_creative`
+
+Font images that mimic the creative GUI and their tabs. Note that the examples here do not have the tabs at the top and bottom of the GUI, but rather at the left side.  
+Replace `N` with a number between 1 to 6 to get the GUI with the corresponding tab (top to bottom) active.
+
+The items `slider_active_right`, `slider_inactive_right`, `small_arrow_down_right` and `small_arrow_up_right` can also be used in it for decoration or utility purposes.
 
 #### dispenser_background
 > **Recommended GUI size:** 4 rows (36 slots)  
@@ -418,7 +433,7 @@ The `vanillamcuis:arrow_blocked` item can be used to make a recipe look invalid.
 > **Example GUI:** [^3] `/ia_stonecutter`
 
 Shows the stonecutter's GUI. Items are available to represent the active, selected and inactive slots in the selection area.  
-The `slider_active` or `slider_inactive` items can also be used in it.
+The items `slider_active_right`, `slider_inactive_right`, `small_arrow_down_right` and `small_arrow_up_right` can also be used in it for decoration or utility purposes.
 
 [^1]:
     ItemsAdder uses namespaces, similar to how mods do this, to distinguish the different items, effects, fonts, etc.  
