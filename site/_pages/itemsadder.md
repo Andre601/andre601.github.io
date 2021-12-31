@@ -30,7 +30,7 @@ If you're using an external hosting for the resource pack (i.e. Dropbox) will yo
 `MC Computer Icons` adds over 90 different custom items which represent either various keyboard keys or other computer related actions such as mouse icons.
 
 ### Items
-Use `/iagive <player> <name>` to get the item.
+Use `/iaget <name>` to get the item and `/iagive <player> <name>` to give it to a Player.
 
 - `mccomputericons:key_blank`
 - `mccomputericons:key_0`
@@ -134,7 +134,7 @@ Use `/iagive <player> <name>` to get the item.
 ## Vanilla MC UIs
 > **Namespace:**[^1] `vanillamcuis`
 >
-> **Items:** 188  
+> **Items:** 202  
 > **Font images:**[^2] 23
 > 
 > [<i class="fas fa-faucet"></i> Spigot Page](https://www.spigotmc.org/resources/97859/){: .btn .btn--info }
@@ -143,13 +143,16 @@ Use `/iagive <player> <name>` to get the item.
 The goal is to offer an alternative way of doing things such as showing crafting recipes without the need of using actual crafting GUIs or similar and instead only use a simple Chest UI.
 
 ### Items
+Use `/iaget <name>` to get the item and `/iagive <player> <name>` to give it to a Player.
+
 - `vanillamcuis:anvil_slot_active_left`
 - `vanillamcuis:anvil_slot_active_middle`
 - `vanillamcuis:anvil_slot_active_right`
 - `vanillamcuis:anvil_slot_inactive_left`
 - `vanillamcuis:anvil_slot_inactive_middle`
 - `vanillamcuis:anvil_slot_inactive_right`
-- `vanillamcuis:arrow_blocked`
+- `vanillamcuis:brewing_blaze_powder_slot`
+- `vanillamcuis:brewing_bottle_slot`
 - `vanillamcuis:brewing_bubbles_animated`
 - `vanillamcuis:brewing_bubbles_1`
 - `vanillamcuis:brewing_bubbles_2`
@@ -193,24 +196,17 @@ The goal is to offer an alternative way of doing things such as showing crafting
 - `vanillamcuis:brewing_progress_18`
 - `vanillamcuis:brewing_progress_19`
 - `vanillamcuis:brewing_progress_20`
-- `vanillamcuis:category_all`
-- `vanillamcuis:category_anvil`
-- `vanillamcuis:category_brewing_stand`
-- `vanillamcuis:category_enchanting_table`
-- `vanillamcuis:category_furnace`
-- `vanillamcuis:category_loom`
-- `vanillamcuis:category_misc`
-- `vanillamcuis:category_stonecutter`
+- `vanillamcuis:enchanting_lapis_lazuli_slot`
 - `vanillamcuis:enchanting_slot_active_left_1`
 - `vanillamcuis:enchanting_slot_active_left_2`
 - `vanillamcuis:enchanting_slot_active_left_3`
 - `vanillamcuis:enchanting_slot_active_middle`
 - `vanillamcuis:enchanting_slot_active_right`
-- `vanillamcuis:enchanting_slot_selected_left_1`
-- `vanillamcuis:enchanting_slot_selected_left_2`
-- `vanillamcuis:enchanting_slot_selected_left_3`
-- `vanillamcuis:enchanting_slot_selected_middle`
-- `vanillamcuis:enchanting_slot_selected_right`
+- `vanillamcuis:enchanting_slot_hover_left_1`
+- `vanillamcuis:enchanting_slot_hover_left_2`
+- `vanillamcuis:enchanting_slot_hover_left_3`
+- `vanillamcuis:enchanting_slot_hover_middle`
+- `vanillamcuis:enchanting_slot_hover_right`
 - `vanillamcuis:enchanting_xp_inactive_1`
 - `vanillamcuis:enchanting_xp_inactive_2`
 - `vanillamcuis:enchanting_xp_inactive_3`
@@ -249,6 +245,9 @@ The goal is to offer an alternative way of doing things such as showing crafting
 - `vanillamcuis:furnace_progress_18`
 - `vanillamcuis:furnace_progress_19`
 - `vanillamcuis:furnace_progress_20`
+- `vanillamcuis:loom_banner_slot`
+- `vanillamcuis:loom_color_slot`
+- `vanillamcuis:loom_pattern_slot`
 - `vanillamcuis:loom_pattern_border`
 - `vanillamcuis:loom_pattern_border_selected`
 - `vanillamcuis:loom_pattern_bottom_third`
@@ -329,16 +328,25 @@ The goal is to offer an alternative way of doing things such as showing crafting
 - `vanillamcuis:loom_pattern_triangle_top_selected`
 - `vanillamcuis:loom_pattern_x`
 - `vanillamcuis:loom_pattern_x_selected`
+- `vanillamcuis:arrow_blocked`
+- `vanillamcuis:category_all`
+- `vanillamcuis:category_anvil`
+- `vanillamcuis:category_brewing_stand`
+- `vanillamcuis:category_enchanting_table`
+- `vanillamcuis:category_furnace`
+- `vanillamcuis:category_loom`
+- `vanillamcuis:category_misc`
+- `vanillamcuis:category_stonecutter`
 - `vanillamcuis:slider_active_left`
-- `vanillamcuis:slider_active_right`
 - `vanillamcuis:slider_inactive_left`
+- `vanillamcuis:slider_active_right`
 - `vanillamcuis:slider_inactive_right`
 - `vanillamcuis:small_arrow_down_left`
 - `vanillamcuis:small_arrow_down_right`
 - `vanillamcuis:small_arrow_up_left`
 - `vanillamcuis:small_arrow_up_right`
 - `vanillamcuis:stonecutter_slot_active`
-- `vanillamcuis:stonecutter_slot_inactive`
+- `vanillamcuis:stonecutter_slot_hover`
 - `vanillamcuis:stonecutter_slot_selected`
 
 ### Font_images
