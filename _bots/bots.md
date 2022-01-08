@@ -24,6 +24,11 @@ bots_row:
     url: /bots/supporto
     btn_label: "Go to page"
     btn_class: "btn--info"
+  - title: "CodeMC"
+    excerpt: "Discord Bot for the CodeMC Server."
+    url: /bots/codemc
+    btn_label: "Go to page"
+    btn_class: "btn--info"
 ---
 
 Welcome to my Bots page!  
