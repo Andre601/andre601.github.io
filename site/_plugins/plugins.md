@@ -10,27 +10,18 @@ title: "Plugins"
 excerpt: "All the plugins I created. Some may no longer be maintained."
 
 plugin_row_1:
-  - title: "BetterAFK"
-    excerpt: |-
-      Give a reason why you're AFK.
-      
-      *This plugin is discontinued*
+  - title: '<img src="https://img.shields.io/badge/Discontinued-red?style=for-the-badge" alt="discontinued" draggable="false"> BetterAFK'
+    excerpt: Give a reason why you're AFK.
     url: /plugins/betterafk
     btn_label: "Go to page"
     btn_class: "btn--info"
-  - title: "HelpGUI"
-    excerpt: |-
-      Displays an Inventory with online players to ask for help.
-      
-      *This plugin is discontinued*
+  - title: ''<img src="https://img.shields.io/badge/Discontinued-red?style=for-the-badge" alt="discontinued" draggable="false"> HelpGUI'
+    excerpt: Displays an Inventory with online players to ask for help.
     url: /plugins/helpgui
     btn_label: "Go to page"
     btn_class: "btn--info"
-  - title: "HexChat"
-    excerpt: |-
-      Chat plugin that allows the usage of Hex Colors, hover text and click actions.
-      
-      *This plugin is discontinued*
+  - title: '<img src="https://img.shields.io/badge/Discontinued-red?style=for-the-badge" alt="discontinued" draggable="false"> HexChat'
+    excerpt: Chat plugin that allows the usage of Hex Colors, hover text and click actions.
     url: /plugins/hexchat
     btn_label: "Go to page"
     btn_class: "btn--info"
@@ -41,11 +32,8 @@ plugin_row_2:
     url: /plugins/oneversionremake
     btn_label: "Go to page"
     btn_class: "btn--info"
-  - title: "PingNachricht"
-    excerpt: |-
-      Display a custom player list in the Player counter.
-      
-      *This plugin is discontinued*
+  - title: '<img src="https://img.shields.io/badge/Discontinued-red?style=for-the-badge" alt="discontinued" draggable="false"> PingNachricht'
+    excerpt: Display a custom player list in the Player counter.
     url: /plugins/pingnachricht
     btn_label: "Go to page"
     btn_class: "btn--info"
@@ -61,11 +49,8 @@ plugin_row_3:
     url: /plugins/statusnpc
     btn_label: "Go to page"
     btn_class: "btn--info"
-  - title: "TeamChat"
-    excerpt: |-
-      Have a separate chat that you can access using a prefix.
-      
-      *This plugin is discontinued*
+  - title: '<img src="https://img.shields.io/badge/Discontinued-red?style=for-the-badge" alt="discontinued" draggable="false"> TeamChat'
+    excerpt: Have a separate chat that you can access using a prefix.
     url: /plugins/teamchat
     btn_label: "Go to page"
     btn_class: "btn--info"
