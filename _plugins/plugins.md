@@ -15,7 +15,7 @@ plugin_row_1:
     url: /plugins/betterafk
     btn_label: "Go to page"
     btn_class: "btn--info"
-  - title: ''<img src="https://img.shields.io/badge/Discontinued-red?style=for-the-badge" alt="discontinued" draggable="false"> HelpGUI'
+  - title: '<img src="https://img.shields.io/badge/Discontinued-red?style=for-the-badge" alt="discontinued" draggable="false"> HelpGUI'
     excerpt: Displays an Inventory with online players to ask for help.
     url: /plugins/helpgui
     btn_label: "Go to page"
