@@ -15,12 +15,10 @@ bots_row:
     url: /bots/purr
     btn_label: "Go to page"
     btn_class: "btn--info"
-  - title: "Supporto"
+  - title: 'Supporto <img alt="discontinued" draggable="false" src="https://img.shields.io/badge/-Discontinued-red?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkZGRkZGIj48cGF0aCBkPSJNMTIgN2EuNzUuNzUgMCAwMS43NS43NXY0LjVhLjc1Ljc1IDAgMDEtMS41IDB2LTQuNUEuNzUuNzUgMCAwMTEyIDd6bTAgMTBhMSAxIDAgMTAwLTIgMSAxIDAgMDAwIDJ6Ij48L3BhdGg+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNNy4zMjggMS40N2EuNzUuNzUgMCAwMS41My0uMjJoOC4yODRhLjc1Ljc1IDAgMDEuNTMuMjJsNS44NTggNS44NThjLjE0MS4xNC4yMi4zMy4yMi41M3Y4LjI4NGEuNzUuNzUgMCAwMS0uMjIuNTNsLTUuODU4IDUuODU4YS43NS43NSAwIDAxLS41My4yMkg3Ljg1OGEuNzUuNzUgMCAwMS0uNTMtLjIyTDEuNDcgMTYuNjcyYS43NS43NSAwIDAxLS4yMi0uNTNWNy44NThhLjc1Ljc1IDAgMDEuMjItLjUzTDcuMzI4IDEuNDd6bS44NCAxLjI4TDIuNzUgOC4xNjl2Ny42NjJsNS40MTkgNS40MTloNy42NjJsNS40MTktNS40MThWOC4xNjhMMTUuODMyIDIuNzVIOC4xNjh6Ij48L3BhdGg+PC9zdmc+">'
     excerpt: |-
       A intuitive Ticket-management bot!
       Say goodbye to `!new` and other ticket-commands with this easy to use bot!
-      
-      *This bot is discontinued!*
     url: /bots/supporto
     btn_label: "Go to page"
     btn_class: "btn--info"
