@@ -1,7 +1,7 @@
 ---
 permalink: /bots/purr
 
-title: "*Purr*"
+title: "\*Purr*"
 excerpt: "A discord bot to bring fun, entertainment and a lot of Nekos."
 ---
 
