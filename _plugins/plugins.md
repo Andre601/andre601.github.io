@@ -54,6 +54,11 @@ plugin_row_3:
     url: /plugins/teamchat
     btn_label: "Go to page"
     btn_class: "btn--info"
+  - title: "IAxPresenceFootsteps"
+    excerpt: "Plugin that adds support for the Presence Footsteps mod to ItemsAdder"
+    url: /plugins/iaxpresencefootsteps
+    btn_label: "Go to page"
+    btn_class: "btn--info"
 ---
 
 Welcome to the Plugins page.  
