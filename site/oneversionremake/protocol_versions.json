@@ -1,6 +1,11 @@
 {
-  "file_version": 1,
+  "file_version": 2,
   "protocols": [
+    {
+      "protocol": 759,
+      "name": "1.19",
+      "major": "1.19.x"
+    },
     {
       "protocol": 758,
       "name": "1.18.2",
