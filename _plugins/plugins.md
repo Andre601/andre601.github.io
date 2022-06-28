@@ -59,6 +59,13 @@ plugin_row_3:
     url: /plugins/iaxpresencefootsteps
     btn_label: "Go to page"
     btn_class: "btn--info"
+
+plugin_row_4:
+  - title: "AdvandedServerList"
+    excerpt: "Plugin for Spigot, PaperMC, BungeeCord or Velocity to create custom MOTDs, Player count messages and more."
+    url: /plugins/advancedserverlist/
+    btn_label: "Go to page"
+    btn_class: "btn--info"
 ---
 
 Welcome to the Plugins page.  
@@ -68,3 +75,4 @@ This page lists all my public plugins that you can find and download on [SpigotM
 {% include feature_row id="plugin_row_1" %}
 {% include feature_row id="plugin_row_2" %}
 {% include feature_row id="plugin_row_3" %}
+{% include feature_row id="plugin_row_4" %}
