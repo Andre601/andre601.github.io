@@ -80,6 +80,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Andre601"
+    - label: "Mastodon"
+      icon: "fab fa-fw fa-mastodon"
+      url: "https://craftodon.social/@Andre_601"
 
 defaults:
   # Main pages
