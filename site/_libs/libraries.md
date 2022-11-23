@@ -20,6 +20,11 @@ libs_row:
     url: /libs/javabotblockapi
     btn_label: "Go to page"
     btn_class: "btn--info"
+  - title: "Fluxpoint4J"
+    excerpt: "The official Java Wrapper for the [Fluxpoint.dev API](https://fluxpoint.dev)"
+    url: /libs/fluxpoint4j
+    btn_label: "Go to page"
+    btn_class: "btn--info"
 ---
 
 Welcome to the Libraries page!  
