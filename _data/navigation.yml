@@ -3,13 +3,5 @@ main:
     url: /
   - title: "Blog <i class='fas fa-external-link-alt'></i>"
     url: "https://andre601.ch/blog"
-  - title: "Bots"
-    url: /bots/
-  - title: "Expansions"
-    url: /expansions/
-  - title: "Libraries"
-    url: /libs/
-  - title: "Plugins"
-    url: /plugins/
-  - title: "GitHub Pages"
-    url: /pages/
+  - title: "ItemsAdder Add-ons <i class='fas fa-external-link-alt'></i>"
+    url: "https://itemsadder.andre601.ch"
