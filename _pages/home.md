@@ -12,6 +12,8 @@ header:
   actions:
     - label: "<i class='fab fa-discord'></i> Discord"
       url: "https://discord.gg/6dazXp6"
+    - label: "<i class='fab fa-mastodon'></i> Mastodon"
+      url: "https://blobfox.coffee/@andre_601"
 
 row_1:
   - title: "Bots"
@@ -46,7 +48,7 @@ row_2:
 Welcome to my website!  
 Below can you find a list of various things I may work on.
 
-For questions, please join my Discord server (Linked above).
+If you have any questions can you ask me thos either on my Discord Server or over at Mastodon. Links can be found above.
 
 ## Pages
 {% include feature_row id="row_1" %}
