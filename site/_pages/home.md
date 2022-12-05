@@ -12,8 +12,10 @@ header:
   actions:
     - label: "<i class='fab fa-discord'></i> Discord"
       url: "https://discord.gg/6dazXp6"
-    - label: "<i class='fab fa-mastodon'></i> Mastodon"
+    - label: "<i class='fab fa-mastodon'></i> blobfox.coffee"
       url: "https://blobfox.coffee/@andre_601"
+    - label: "<i class='fab fa-mastodon'></i> swiss.social (German)"
+      url: "https://swiss.social/@andre_601"
 
 row_1:
   - title: "Bots"
