@@ -12,9 +12,9 @@ header:
   actions:
     - label: "<i class='fab fa-discord'></i> Discord"
       url: "https://discord.gg/6dazXp6"
-    - label: "<i class='fab fa-mastodon'></i> blobfox.coffee"
+    - label: "<i class='fab fa-mastodon'></i> Mastodon (English)"
       url: "https://blobfox.coffee/@andre_601"
-    - label: "<i class='fab fa-mastodon'></i> swiss.social (German)"
+    - label: "<i class='fab fa-mastodon'></i> Mastodon (German)"
       url: "https://swiss.social/@andre_601"
 
 row_1:
