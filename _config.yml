@@ -80,9 +80,12 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Andre601"
-    - label: "Mastodon"
+    - label: "Mastodon (English)"
       icon: "fab fa-fw fa-mastodon"
       url: "https://blobfox.coffee/@Andre_601"
+    - label: "Mastodon (German)"
+      icon: "fab fa-fw fa-mastodon"
+      url: "https://swiss.social/@Andre_601"
 
 defaults:
   # Main pages
