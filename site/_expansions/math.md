@@ -17,9 +17,9 @@ Supported are all expressions that the [EvalEx library](https://github.com/uklim
 
 > **Notes:**  
 > - `[precision]` and `[rounding]` can be left blank to use the defaults set in the config of PlaceholderAPI.  
->   `[precision]` can be any whole number and `[rounding]` can be one of the [supported rounding options](https://github.com/Andre601/Math-Expansion/wiki/Config-options#rounding).
+>   `[precision]` can be any whole number and `[rounding]` can be one of the [supported rounding options](https://codeberg.org/Andre601/Math-Expansion/wiki/Config-options#rounding.
 
 ## Links
 
 [<i class="fas fa-cloud-download-alt"></i> Download](https://api.extendedclip.com/expansions/math){: .btn .btn--info }  
-[<i class="fab fa-github"></i> Source Code](https://github.com/Andre601/Math-Expansion){: .btn .btn--info }
+[<i class="fab fa-github"></i> Source Code](https://codeberg.org/Andre601/Math-Expansion){: .btn .btn--info }
