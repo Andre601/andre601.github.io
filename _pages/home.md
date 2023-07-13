@@ -29,7 +29,7 @@ row_1:
     btn_label: "Go to page"
     btn_class: "btn--info"
   - title: "Libraries"
-    excerpt: "Java Libraries/Wrappers I maintain."
+    excerpt: "Java Libraries/Wrappers I made."
     url: /libs/
     btn_label: "Go to page"
     btn_class: "btn--info"
