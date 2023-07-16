@@ -1,7 +1,7 @@
 main:
-  - title: "Home"
-    url: /
-  - title: "Blog <i class='fas fa-external-link-alt'></i>"
+  - title: "Main Website"
+    url: https://andre601.ch
+  - title: "Blog"
     url: "https://andre601.ch/blog"
-  - title: "Add-ons <i class='fas fa-external-link-alt'></i>"
+  - title: "Plugin Add-ons"
     url: "https://addons.andre601.ch"
