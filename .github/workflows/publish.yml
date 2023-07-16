@@ -21,3 +21,4 @@ jobs:
         publish_dir: ./site
         publish_branch: site
         enable_jekyll: true
+        cname: docs.andre601.ch

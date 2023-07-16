@@ -15,8 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: 'Andre_601'
 
-description: |-
-  Hobby Java-Developer creating plugins, bots and PlaceholderAPI Expansions.
+description: 'Documentation sub-domain'
 
 twitter_username: TrueAndre_601
 github_username: Andre601
@@ -31,19 +30,6 @@ markdown: kramdown
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 remote_theme: mmistakes/minimal-mistakes
-# Outputting
-permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
-timezone: Europe/Zurich # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
-include:
-  - _pages
-  - _expansions
-  - _plugins
-  - _bots
-  - _libs
-  - _github_pages
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -86,55 +72,6 @@ footer:
     - label: "Mastodon (German)"
       icon: "fab fa-fw fa-mastodon"
       url: "https://swiss.social/@Andre_601"
-
-defaults:
-  # Main pages
-  - scope:
-      path: "_pages"
-      type: pages
-    values:
-      layout: single
-      author_profile: false
-  
-  # Bot pages
-  - scope:
-      path: "_bots"
-      type: pages
-    values:
-      layout: single
-      author_profile: false
-  
-  # Expansion pages
-  - scope:
-      path: "_expansions"
-      type: pages
-    values:
-      layout: single
-      author_profile: false
-  
-  # Library pages
-  - scope:
-      path: "_libs"
-      type: pages
-    values:
-      layout: single
-      author_profile: false
-  
-  # Plugin pages
-  - scope:
-      path: "_plugins"
-      type: pages
-    values:
-      layout: single
-      author_profile: false
-  
-  # GitHub Pages... pages.
-  - scope:
-      path: "_github_pages"
-      type: pages
-    values:
-      layout: single
-      author_profile: false
 
 atom_feed:
   hide: true
