@@ -15,6 +15,16 @@ docs:
     url: /AdvancedServerList
     btn_label: "Go to page"
     btn_class: "btn--info"
+  - title: "GitHub-Markdown"
+    excerpt: "A site documenting the various Markdown features GitHub offers"
+    url: /GitHub-Markdown
+    btn_label: "Go to page"
+    btn_class: "btn--info"
+  - title: "Discord-Links"
+    excerpt: "Collection of (official) Discord Server invites and other related URLs."
+    url: /Discord-Links
+    btn_label: "Go to page"
+    btn_class: "btn--info"
 ---
 
 # Documentation
