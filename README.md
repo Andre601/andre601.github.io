@@ -5,7 +5,7 @@
 </a>
 
 > **Note**  
-> This Repo has moved! New location: https://codeberg.org/Andre601/blog-source
+> This Repo has moved! New location: https://codeberg.org/Andre601/website
 
 This repository contains all the content used for my [personal website][website].
 
