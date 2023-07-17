@@ -4,6 +4,9 @@
   <img alt="jekyll" height="64" align="right" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/built-with/jekyll_vector.svg">
 </a>
 
+> **Note**  
+> This Repo has moved! New location: https://codeberg.org/Andre601/blog-source
+
 This repository contains all the content used for my [personal website][website].
 
 A [GitHub Action][action] is used whenever changes are pushed towards the [site directory][site-directory] in which case it will automatically push changes to the [site branch] which is used by GitHub Pages to publish the site.
