@@ -5,3 +5,5 @@ main:
     url: "https://andre601.ch/blog"
   - title: "Plugin Add-ons"
     url: "https://addons.andre601.ch"
+  - title: "Docs"
+    url: /
