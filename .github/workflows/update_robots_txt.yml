@@ -15,6 +15,12 @@ jobs:
           path: source
       - name: "Checkout ai.robots.txt Repository"
         run: "git clone https://github.com/ai-robots-txt/ai.robots.txt remote"
+      - name: "Generate App Access token"
+        id: generate-token
+        uses: actions/create-github-app-token@v2
+        with:
+          app-id: ${{ vars.APP_ID }}
+          private-key: ${{ secrets.APP_KEY }}
       - name: "Update file if different"
         run: |
           if git diff --no-index --exit-code "source/site/robots.txt" "remote/robots.txt"; then
@@ -23,9 +29,9 @@ jobs:
             echo "Difference found. Updating file..."
             cp "remote/robots.txt" "source/site/robots.txt"
             cd source
-            git config --global user.email "actions@github.com"
-            git config --global user.name "github-actions[bot]"
-            git remote set-url origin https://${{ secrets.GITHUB_TOKEN }}@github.com/Andre601/andre601.github.io
+            git config --global user.email "11576465+Andre601@users.noreply.github.com"
+            git config --global user.name "Andre601's Bot"
+            git remote set-url origin https://${{ steps.generate-token.outputs.token }}@github.com/Andre601/andre601.github.io
             git add site/robots.txt
             git commit -m "Update robots.txt from ai.robots.txt"
             git push
