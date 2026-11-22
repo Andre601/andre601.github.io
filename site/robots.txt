@@ -81,6 +81,7 @@ User-agent: FirecrawlAgent
 User-agent: FriendlyCrawler
 User-agent: GeistHaus-PageFetcher
 User-agent: Gemini-Deep-Research
+User-agent: GeneralRetrievalBot
 User-agent: Google-Agent
 User-agent: Google-CloudVertexBot
 User-agent: Google-Extended
@@ -99,6 +100,7 @@ User-agent: GrokAppAndroid
 User-agent: GrokBot
 User-agent: Haiku-SearchBot
 User-agent: HarkBot
+User-agent: HatchFeed
 User-agent: HenkBot
 User-agent: Hunyuan
 User-agent: iAskBot
